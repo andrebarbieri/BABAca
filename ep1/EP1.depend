@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1505256281 source:c:\users\andre\desktop\ep1\interfaceserial.cpp
+	"InterfaceSerial.h"
+
+1504765556 c:\users\andre\desktop\ep1\interfaceserial.h
+	<string>
+
+1504764854 source:c:\users\andre\desktop\ep1\main.cpp
+	<iostream>
+	<string>
+	"Serie.h"
+	"Ponto.h"
+	"InterfaceSerial.h"
+
+1504634351 c:\users\andre\desktop\ep1\serie.h
+	<string>
+	"Ponto.h"
+
+1504663434 c:\users\andre\desktop\ep1\ponto.h
+
+1504663434 source:c:\users\andre\desktop\ep1\ponto.cpp
+	<iostream>
+	"Ponto.h"
+
+1504663480 source:c:\users\andre\desktop\ep1\serie.cpp
+	"Serie.h"
+	<iostream>
+
